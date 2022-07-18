@@ -1,24 +1,3 @@
-# project
+https://pabloberry44.github.io/Vue-Schedule/
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is my first ever application written in Vue. I worked on it for a few days and I struggled to deploy it on Github Pages for a while. This simple application allows user to create and delete folders. In every folder user can add, delete and mark a task/'to do' as completed by simply tapping on it. After refreshing site all folders and tasks disappear as there is no back-end to save data on server. I was thinking about saving data on client but I don't consider this solution good enaugh.
